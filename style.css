@@ -6,9 +6,9 @@ body {
   height: 100vh;
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #87CEFA; /* light sky blue */
+  background: #87CEFA;
   text-align: center;
-  color: #222; /* dark text for contrast */
+  color: #222;
 }
 
 .counter {
