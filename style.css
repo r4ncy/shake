@@ -6,15 +6,23 @@ body {
   height: 100vh;
   margin: 0;
   font-family: Arial, sans-serif;
-  background: rgb(23 , 236 , 236);
+  background: #87CEFA; /* light sky blue */
+  text-align: center;
+  color: #222; /* dark text for contrast */
 }
 
 .counter {
   font-size: 3em;
   margin: 20px;
-  color: #333;
+  color: #111;
 }
 
 .message {
-  color: #666;
+  color: #333; /* slightly softer dark text */
+}
+
+.timer {
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: #444;
 }
